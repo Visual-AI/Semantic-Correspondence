@@ -103,8 +103,6 @@ We provided pretrained weights to reproduce the results in the paper, you can do
 |   Ours(DINOv2)   |  85.1% | [Google Drive](https://drive.google.com/drive/folders/1XgHdxYvan_LB85RpxkDKlEmXElTOC5D8?usp=drive_link) | 87.4% | [Google Drive](https://drive.google.com/drive/folders/1EQbuQFZ4CyjqvlohaZROXlYyNASxich9?usp=drive_link)   |
 
 
-Note: Results may vary a bit depending on the GPU. 
-
 ## Citation
 ```
 ```
