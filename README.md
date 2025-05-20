@@ -1,10 +1,10 @@
 # Semantic Correspondence: Unified Benchmarking and a Strong Baseline
 
-**📚[Paper List](paper_list.md) | [Arxiv]()**
+**📚[Paper List](paper_list.md)
 
 [Kaiyan Zhang<sup>1</sup>](https://scholar.google.com.hk/citations?user=ef255KYAAAAJ&hl=en)
-Jingyi Lu<sup>2</sup>, 
 [Xinghui Li<sup>2</sup>](https://scholar.google.com/citations?user=XLlgbBoAAAAJ&hl=en),
+Jingyi Lu<sup>2</sup>, 
 [Kai Han<sup>1</sup>](https://www.kaihan.org/), 
 
 [<sup>1</sup>Visual AI Lab, University of Hong Kong](https://visailab.github.io/)&nbsp;&nbsp;&nbsp;
