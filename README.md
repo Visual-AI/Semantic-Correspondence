@@ -7,7 +7,7 @@
 Jingyi Lu<sup>1</sup>, 
 [Kai Han<sup>1</sup>](https://www.kaihan.org/), 
 
-[<sup>1</sup>Visual AI Lab, University of Hong Kong](https://visailab.github.io/)&nbsp;&nbsp;&nbsp;
+[<sup>1</sup>Visual AI Lab, The University of Hong Kong](https://visailab.github.io/)&nbsp;&nbsp;&nbsp;
 [<sup>2</sup>Active Vision Lab
 , University of Oxford](https://www.robots.ox.ac.uk/~lav/)
 
