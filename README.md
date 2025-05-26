@@ -1,6 +1,6 @@
 # Semantic Correspondence: Unified Benchmarking and a Strong Baseline
 
-**[📚Paper List](paper_list.md) | [Arxiv](https://arxiv.org/abs/2505.18060)**
+**[Arxiv](https://arxiv.org/abs/2505.18060)**
 
 [Kaiyan Zhang<sup>1</sup>](https://scholar.google.com.hk/citations?user=ef255KYAAAAJ&hl=en)
 [Xinghui Li<sup>2</sup>](https://scholar.google.com/citations?user=XLlgbBoAAAAJ&hl=en),
@@ -12,7 +12,9 @@ Jingyi Lu<sup>1</sup>,
 , University of Oxford](https://www.robots.ox.ac.uk/~lav/)
 
 ## Paper List
-We provide a [paper list](paper_list.md) of semantic correspondence methods !
+We provide a [paper list](paper_list.md) for all the semantic correspondence estimation methods discussed in the paper.
+
+Meanwhile, we also created a repo, [Awesome-Semantic-Correspondence](https://github.com/Visual-AI/Awesome-Semantic-Correspondence), to collect all papers for semantic correspondence estimation, considering the growing body of the literature in the field. PRs are wellcome! 
 
 
 ## Environment
