@@ -3,7 +3,7 @@
 **[Arxiv](https://arxiv.org/abs/2505.18060)**
 
 [Kaiyan Zhang<sup>1</sup>](https://scholar.google.com.hk/citations?user=ef255KYAAAAJ&hl=en), 
-[Xinghui Li<sup>2</sup>](https://xinghui-li.github.io/), 
+[Xinghui Li](https://xinghui-li.github.io/), 
 Jingyi Lu<sup>1</sup>, 
 [Kai Han<sup>1</sup>](https://www.kaihan.org/)
 
