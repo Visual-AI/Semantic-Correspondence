@@ -1,6 +1,6 @@
 # Semantic Correspondence: Unified Benchmarking and a Strong Baseline
 
-📚[Paper List](paper_list.md)
+**[📚Paper List](paper_list.md) | [Arxiv](https://arxiv.org/abs/2505.18060)**
 
 [Kaiyan Zhang<sup>1</sup>](https://scholar.google.com.hk/citations?user=ef255KYAAAAJ&hl=en)
 [Xinghui Li<sup>2</sup>](https://scholar.google.com/citations?user=XLlgbBoAAAAJ&hl=en),
@@ -10,6 +10,9 @@ Jingyi Lu<sup>1</sup>,
 [<sup>1</sup>Visual AI Lab, The University of Hong Kong](https://visailab.github.io/)&nbsp;&nbsp;&nbsp;
 [<sup>2</sup>Active Vision Lab
 , University of Oxford](https://www.robots.ox.ac.uk/~lav/)
+
+## Paper List
+We provide a [paper list](paper_list.md) of semantic correspondence methods !
 
 
 ## Environment
@@ -105,4 +108,13 @@ We provided pretrained weights to reproduce the results in the paper, you can do
 
 ## Citation
 ```
+@misc{semantic_correspondence_benchmark,
+      title={Semantic Correspondence: Unified Benchmarking and a Strong Baseline}, 
+      author={Kaiyan Zhang and Xinghui Li and Jingyi Lu and Kai Han},
+      year={2025},
+      eprint={2505.18060},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.18060}, 
+}
 ```
