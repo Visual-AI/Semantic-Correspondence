@@ -2,14 +2,14 @@
 
 **[Arxiv](https://arxiv.org/abs/2505.18060)**
 
-[Kaiyan Zhang<sup>1</sup>](https://scholar.google.com.hk/citations?user=ef255KYAAAAJ&hl=en)
-[Xinghui Li<sup>2</sup>](https://scholar.google.com/citations?user=XLlgbBoAAAAJ&hl=en),
+[Kaiyan Zhang<sup>1</sup>](https://scholar.google.com.hk/citations?user=ef255KYAAAAJ&hl=en), 
+[Xinghui Li<sup>2</sup>](https://xinghui-li.github.io/), 
 Jingyi Lu<sup>1</sup>, 
-[Kai Han<sup>1</sup>](https://www.kaihan.org/), 
+[Kai Han<sup>1</sup>](https://www.kaihan.org/)
 
 [<sup>1</sup>Visual AI Lab, The University of Hong Kong](https://visailab.github.io/)&nbsp;&nbsp;&nbsp;
-[<sup>2</sup>Active Vision Lab
-, University of Oxford](https://www.robots.ox.ac.uk/~lav/)
+<!-- [<sup>2</sup>Active Vision Lab
+, University of Oxford](https://www.robots.ox.ac.uk/~lav/) -->
 
 ## Paper List
 We provide a [paper list](paper_list.md) for all the semantic correspondence estimation methods discussed in the paper.
