@@ -226,6 +226,25 @@ Early CNN methods
   [[Project Page]](https://www.cs.umd.edu/~sakshams/LiFT/)
   [[Code]](https://github.com/saksham-s/lift)
 
+- *CleanDIFT: Diffusion Features without Noise*  
+  Nick Stracke, Stefan Andreas Baumann, Kolja Bauer, Frank Fundel, Björn Ommer  
+  **CVPR 2025 Oral**.
+  [[Paper]](https://arxiv.org/abs/2412.03439)
+  [[Project Page]](https://compvis.github.io/cleandift/)
+  [[Code]](https://github.com/CompVis/cleandift)
+
+- *SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations*  
+  Krispin Wandel, Hesheng Wang  
+  **CVPR 2025**.
+  [[Paper]](https://arxiv.org/abs/2503.22462)
+  [[Project Page]](https://semalign3d.papers.discuna.com/)
+  [[Code]](https://github.com/krispinwandel/semalign3d)
+
+- *Unleashing Diffusion Transformers for Visual Correspondence by Modulating Massive Activations*  
+  Chaofan Gan, Yuanpeng Tu, Xi Chen, Tieyuan Chen, Yuxi Li, Mehrtash Harandi, Weiyao Lin  
+  **arXiv preprint 2025**. 
+  [[Paper]](https://arxiv.org/abs/2505.18584)  
+
 ### Matching Refinement
 
 #### Cost Volume-Based Methods
@@ -584,6 +603,13 @@ Early CNN methods
   [[Paper]](https://arxiv.org/abs/2311.18540)
   [[Code]](https://github.com/naver-ai/matchme)
 
+- *Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels*   
+  Olaf Dünkel, Thomas Wimmer, Christian Theobalt, Christian Rupprecht, Adam Kortylewski  
+  **ICCV 2025**. 
+  [[Paper]](https://arxiv.org/abs/2506.05312) 
+  [[Project Page]](https://genintel.github.io/DIY-SC) 
+  [[Code]](https://github.com/odunkel/DIY-SC)
+
 ### Other Improvements
 
 - *DCTM: Discrete-Continuous Transformation Matching for Semantic Flow*  
@@ -637,3 +663,19 @@ Early CNN methods
   [[Paper]](https://arxiv.org/abs/2412.03512)
   [[Project Page]](https://compvis.github.io/distilldift/) 
   [[Code]](https://github.com/compvis/DistillDIFT)
+
+- *Jamais Vu: Exposing the Generalization Gap in Supervised Semantic Correspondence*  
+  Octave Mariotti, Zhipeng Du, Yash Bhalgat, Oisin Mac Aodha, Hakan Bilen  
+  **NeurIPS 2025**. 
+  [[Paper]](https://arxiv.org/abs/2506.08220) 
+
+- *Bridging Viewpoint Gaps: Geometric Reasoning Boosts Semantic Correspondence*  
+  Qiyang Qian, Hansheng Chen, Masayoshi Tomizuka, Kurt Keutzer, Qianqian Wang, Chenfeng Xu  
+  **CVPR 2025**.
+  [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_Bridging_Viewpoint_Gaps_Geometric_Reasoning_Boosts_Semantic_Correspondence_CVPR_2025_paper.pdf)
+  [[Code]](https://github.com/Qiyang-Q/Bridge-Viewpoint-Gap)
+
+- *Towards Robust Semantic Correspondence: A Benchmark and Insights*  
+  Wenyue Chong  
+  **arXiv preprint 2025**. 
+  [[Paper]](https://arxiv.org/abs/2508.00272)  
