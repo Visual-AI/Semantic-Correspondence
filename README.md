@@ -1,6 +1,6 @@
 # Semantic Correspondence: Unified Benchmarking and a Strong Baseline
 
-**[Arxiv](https://arxiv.org/abs/2505.18060)**
+**[TPAMI 2025](https://arxiv.org/abs/2505.18060)**
 
 [Kaiyan Zhang<sup>1</sup>](https://scholar.google.com.hk/citations?user=ef255KYAAAAJ&hl=en), 
 [Xinghui Li](https://xinghui-li.github.io/), 
@@ -110,13 +110,10 @@ We provided pretrained weights to reproduce the results in the paper, you can do
 
 ## Citation
 ```
-@misc{semantic_correspondence_benchmark,
+@article{semantic_correspondence_benchmark,
       title={Semantic Correspondence: Unified Benchmarking and a Strong Baseline}, 
       author={Kaiyan Zhang and Xinghui Li and Jingyi Lu and Kai Han},
-      year={2025},
-      eprint={2505.18060},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.18060}, 
+      journal=TPAMI,
+      year={2025}
 }
 ```
