@@ -111,9 +111,9 @@ We provided pretrained weights to reproduce the results in the paper, you can do
 ## Citation
 ```
 @article{semantic_correspondence_benchmark,
-      title={Semantic Correspondence: Unified Benchmarking and a Strong Baseline}, 
+      title={Semantic Correspondence: Unified Benchmarking and a Strong Baseline},
       author={Kaiyan Zhang and Xinghui Li and Jingyi Lu and Kai Han},
-      journal=TPAMI,
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       year={2025}
 }
 ```
