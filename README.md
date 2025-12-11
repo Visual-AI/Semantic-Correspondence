@@ -1,6 +1,6 @@
 # Semantic Correspondence: Unified Benchmarking and a Strong Baseline
 
-**[TPAMI 2026](https://arxiv.org/abs/2505.18060)**
+**[TPAMI 2025](https://arxiv.org/abs/2505.18060)**
 
 [Kaiyan Zhang<sup>1</sup>](https://scholar.google.com.hk/citations?user=ef255KYAAAAJ&hl=en), 
 [Xinghui Li](https://xinghui-li.github.io/), 
@@ -114,6 +114,6 @@ We provided pretrained weights to reproduce the results in the paper, you can do
       title={Semantic Correspondence: Unified Benchmarking and a Strong Baseline},
       author={Kaiyan Zhang and Xinghui Li and Jingyi Lu and Kai Han},
       journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-      year={2026}
+      year={2025}
 }
 ```
